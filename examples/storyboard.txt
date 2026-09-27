@@ -1,0 +1,5 @@
+# One prompt per segment. Once the list runs out, the last prompt keeps going.
+A lone hiker walks along a misty mountain ridge at sunrise, cinematic wide shot
+The hiker reaches a rocky summit as the clouds part, revealing a vast valley below
+Camera slowly orbits the hiker standing on the summit, golden light, wind in the grass
+The hiker begins descending a winding trail into a pine forest, soft dappled light
